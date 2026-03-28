@@ -4,7 +4,10 @@
 
 ## What’s Included
 
-- **Exported WordPress content (XML)**: All pages, posts, and media links.
+**Exported WordPress content (XML)**: 
+- All pages
+- posts and
+- media links
 
 ## Purpose
 
